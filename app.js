@@ -1,3 +1,4 @@
+// assets 
 const assets = [
     {
         image: "images/01.jpg",
